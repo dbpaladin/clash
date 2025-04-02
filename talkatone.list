@@ -1,0 +1,8 @@
+# 内容：Talkatone
+# 域名关键字匹配
+# DOMAIN-KEYWORD,talkatone
+# DOMAIN-KEYWORD,mobilefuse
+# 域名后缀匹配
+DOMAIN,www.talkatone.com
+DOMAIN-SUFFIX,mobilefuse.com
+DOMAIN-SUFFIX,talkatone.com
