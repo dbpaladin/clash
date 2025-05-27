@@ -41,6 +41,8 @@ DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,notebooklm.google
+
 
 # DOMAIN-SUFFIX,googleapis.com
 # DOMAIN-SUFFIX,googleapis.cn
