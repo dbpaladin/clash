@@ -42,6 +42,7 @@ DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,cursor.sh
 
 
 # DOMAIN-SUFFIX,googleapis.com
